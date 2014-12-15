@@ -93,7 +93,7 @@ function _360hitao2(ord){
 function main(){
 
 	console.log("\n---------------------------------------");
-	console.log("\nCheck Time:" + (new Date()).toLocaleString());
+	console.log("\nOrder Check Time:" + (new Date()).toLocaleString());
 	console.log("\n---------------------------------------");
 
 	ecms("APELAX1110012044");
